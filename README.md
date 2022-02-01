@@ -1,7 +1,7 @@
 # Linear Algebra for Machine Learning
 
 ## NumPy
-Introduction to NumPy Arrays
+* Introduction to NumPy Arrays
 Index, Slice and Reshape NumPy Arrays
 NumPy Array Broadcasting
 
