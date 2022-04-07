@@ -2,6 +2,8 @@
 
 ## NumPy
 * Introduction to NumPy Arrays
+* Functions to create Arrays
+* Combining Arrays
 * Index, Slice and Reshape NumPy Arrays
 * NumPy Array Broadcasting
 
